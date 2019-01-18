@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "David's Awesome Delete Script", "ConsoleApp2\David's Awesome Delete Script.csproj", "{57A98304-1D21-4F2F-A527-5E874ED23626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57A98304-1D21-4F2F-A527-5E874ED23626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A98304-1D21-4F2F-A527-5E874ED23626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A98304-1D21-4F2F-A527-5E874ED23626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A98304-1D21-4F2F-A527-5E874ED23626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEBC79B2-CAEC-4E6A-83D8-D81FD33AC43D}
+	EndGlobalSection
+EndGlobal
